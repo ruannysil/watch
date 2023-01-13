@@ -20,8 +20,7 @@ Projeto Relógio digital.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
+- React JS
 - Git e Github
 
 ## 💻 Projeto
