@@ -11,7 +11,7 @@ Projeto Relógio digital.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212437155-f412427a-a0a8-4f6b-affa-c68bb9b2d711.jpg" width="500px">
+  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212437155-f412427a-a0a8-4f6b-affa-c68bb9b2d711.jpg" width="700px">
 </p>
 
 <br>
